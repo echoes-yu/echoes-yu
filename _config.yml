@@ -153,3 +153,5 @@ comments:
   gitalk_owner: chanxinguidao
   gitalk_admin: chanxinguidao
   distractionFreeMode: true
+
+theme: jekyll-theme-leap-day
